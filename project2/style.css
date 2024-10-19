@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.from{
+    height: 12rem;
+    width: 22rem;
+    background-color: #000000;
+    text-align: center;
+}
+.input1{
+    padding-top: 25px;
+}
+input{
+    height: 2rem;
+    width: 18rem;
+    position: relative;
+}
